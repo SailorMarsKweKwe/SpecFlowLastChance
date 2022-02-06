@@ -6717,11 +6717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/innasukhina/RiderProjects/SpecFlowLastChance/SpecFlowLastChance/SpecFlowLastChance.csproj",
+      "projectUniqueName": "/Users/innasukhina/RiderProjects/SpecFlowLastChance33/SpecFlowLastChance/SpecFlowLastChance.csproj",
       "projectName": "SpecFlowLastChance",
-      "projectPath": "/Users/innasukhina/RiderProjects/SpecFlowLastChance/SpecFlowLastChance/SpecFlowLastChance.csproj",
+      "projectPath": "/Users/innasukhina/RiderProjects/SpecFlowLastChance33/SpecFlowLastChance/SpecFlowLastChance.csproj",
       "packagesPath": "/Users/innasukhina/.nuget/packages/",
-      "outputPath": "/Users/innasukhina/RiderProjects/SpecFlowLastChance/SpecFlowLastChance/obj/",
+      "outputPath": "/Users/innasukhina/RiderProjects/SpecFlowLastChance33/SpecFlowLastChance/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/innasukhina/.nuget/NuGet/NuGet.Config"

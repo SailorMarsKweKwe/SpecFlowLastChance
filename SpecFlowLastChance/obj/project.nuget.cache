@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RH+H4Nc2Uz3WP/VUNAPk6pztBMCiP6KA/VJNcm3nzs2IUUPNamDLi1Ek+i8ejqCDd6iyOkLgAozGQDkO0YIrUQ==",
+  "dgSpecHash": "LmM6UTVnTdPf46o63Wyl1yoO1a9kky8voSZRS/+PmGPLDZNwsgiPII4OebW0b/9S1Vg9EzGpRxBcDbwM5dwMoA==",
   "success": true,
-  "projectFilePath": "/Users/innasukhina/RiderProjects/SpecFlowLastChance/SpecFlowLastChance/SpecFlowLastChance.csproj",
+  "projectFilePath": "/Users/innasukhina/RiderProjects/SpecFlowLastChance33/SpecFlowLastChance/SpecFlowLastChance.csproj",
   "expectedPackageFiles": [
     "/Users/innasukhina/.nuget/packages/bodi/1.5.0/bodi.1.5.0.nupkg.sha512",
     "/Users/innasukhina/.nuget/packages/cucumber.messages/6.0.1/cucumber.messages.6.0.1.nupkg.sha512",

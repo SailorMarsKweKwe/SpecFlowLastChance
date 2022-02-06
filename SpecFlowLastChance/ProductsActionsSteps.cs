@@ -13,7 +13,7 @@ namespace SpecFlowLastChance
         [Given(@"user on the website homepage")]
         public void GivenUserOnTheWebsiteHomepage()
         {
-            DriverHolder.driver = StartDriverWithURL("http://dnepr.i-mne.com/");
+           StartDriverWithURL("http://dnepr.i-mne.com/");
         }
 
 
